@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-       <img src="/worldtravel.png" style={{height: '50vh'}}/>
+       <Image alt="main" src="/worldtravel.png" style={{height: '50vh'}}/>
       </main>
 
       
